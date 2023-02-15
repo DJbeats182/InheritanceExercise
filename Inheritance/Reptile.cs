@@ -7,6 +7,7 @@ namespace Inheritance
     public class Reptile : Animal
     {
         public bool HasShell { get; set; }
+        
         public bool IsLarge { get; set; }
 
         public bool HasScales { get; set; }
